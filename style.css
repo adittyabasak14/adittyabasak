@@ -1,5 +1,6 @@
 body {
-    background-image: url("images/background.png");
+    background-image: url("images/background.jpg");
+    color: #ffff;
 }
 
 .site-header {
@@ -7,7 +8,7 @@ body {
     justify-content: center;
     font: normal normal normal 25px Poppins;
     letter-spacing: 0px;
-    color: #000000;
+  
     font-weight: 600;
 }
 
@@ -17,7 +18,6 @@ body {
     justify-content: center;
     font: normal normal normal 23px Poppins;
     letter-spacing: 0px;
-    color: #000000;
     font-weight: 600;
 }
 
@@ -68,6 +68,7 @@ body {
     display: flex;
     justify-content: center;
     font: normal normal normal 23px Poppins;
+    color: #000000;
 }
 .ok-btn-class{
     position: relative;
