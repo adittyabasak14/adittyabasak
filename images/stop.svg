@@ -1,8 +1,0 @@
-<svg id="stop" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <g id="vuesax_outline_stop" data-name="vuesax/outline/stop">
-    <g id="stop-2" data-name="stop">
-      <path id="Vector" d="M12.45,19.5H7.05C2.11,19.5,0,17.39,0,12.45V7.05C0,2.11,2.11,0,7.05,0h5.4c4.94,0,7.05,2.11,7.05,7.05v5.4C19.5,17.39,17.39,19.5,12.45,19.5Zm-5.4-18C2.95,1.5,1.5,2.95,1.5,7.05v5.4C1.5,16.55,2.95,18,7.05,18h5.4c4.1,0,5.55-1.45,5.55-5.55V7.05c0-4.1-1.45-5.55-5.55-5.55Z" transform="translate(2.25 2.25)" fill="#8f8f8f"/>
-      <path id="Vector-2" data-name="Vector" d="M0,0H24V24H0Z" fill="none" opacity="0"/>
-    </g>
-  </g>
-</svg>
